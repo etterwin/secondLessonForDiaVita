@@ -1,0 +1,42 @@
+@media screen and (min-width: 992px) and (max-width: 1100px) {
+    .loser-img {
+        padding-top: 50px;
+    }
+
+    .sales-loser__images {
+        height: 240px;
+    }
+
+    .sales__winner-text {
+        margin-right: 60px;
+    }
+
+    .container__success {
+        height: 600px;
+    }
+
+    .images__pandas {
+        width: 88%;
+        margin: 0 0;
+    }
+
+    .pandas-img {
+        margin-left: 20%;
+    }
+
+    .success-blink {
+        margin: 0 0 0 80%;
+    }
+
+    .success__winner-img {
+        margin-top:-44%;
+    }
+
+    .glare {
+        margin-top:-21%;
+    }
+
+    .sucess__winner {
+        margin-top: -150px;
+    }
+}
